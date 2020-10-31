@@ -4,6 +4,8 @@ Project to demonstrate git and github
 
 ## Introduction
 
+example to show various git command
+
 ## Purpose
 
 ## Deployment
