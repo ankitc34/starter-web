@@ -8,6 +8,8 @@ example to show various git command
 
 ## Purpose
 
+show examples how git works
+
 ## Deployment
 
 ## How to Contribute
