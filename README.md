@@ -8,9 +8,11 @@ example to show various git command
 
 ## Purpose
 
-show examples how git works
+show examples how git and github works
 
 ## Deployment
+
+set deployment
 
 ## How to Contribute
 
