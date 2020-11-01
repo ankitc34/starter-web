@@ -2,6 +2,7 @@
 
 Project to demonstrate git and github. 
 Adding a line to rebasing example.
+then apply morechange from myfeature branch too.
 
 ## Introduction
 
