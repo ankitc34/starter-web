@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    AnkitChandra sunankiet@gmail.com  @ankitc
 
 # THANKS
 
