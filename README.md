@@ -16,3 +16,6 @@ set deployment
 
 ## How to Contribute
 
+###Copyright Notice
+2014 Git Training
+
