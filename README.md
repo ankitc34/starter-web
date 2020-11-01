@@ -1,6 +1,7 @@
 # Starter Web Project
 
-Project to demonstrate git and github
+Project to demonstrate git and github. 
+Adding a line to rebasing example.
 
 ## Introduction
 
