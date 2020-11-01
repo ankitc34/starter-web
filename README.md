@@ -15,6 +15,7 @@ show examples how git and github works
 set deployment
 
 ## How to Contribute
+Please pork repository and contribute your changes
 
 ###Copyright Notice
 2014 Git Training
